@@ -8,5 +8,5 @@ The documentation is available at https://wildfly-up-and-running.github.io/docs/
 
 The examples are individual Git projects that focuses on common use cases.
 
-* [wuar-demo](https://github.com/wildfly-up-and-running/wuar-demo) is a Maven project that builds an application image from a Web deployment which uses Jakarta EE and MicroProfile Config. You can try the application directly using the image ghcr.io/wildfly-up-and-running/wuar-demo:latest.
+* [wuar-demo](https://github.com/wildfly-up-and-running/wuar-demo) is a Maven project that builds an application image from a Web deployment which uses Jakarta EE and MicroProfile Config. You can try the application directly using the image [ghcr.io/wildfly-up-and-running/wuar-demo](https://ghcr.io/wildfly-up-and-running/wuar-demo).
 
