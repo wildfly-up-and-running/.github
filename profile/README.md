@@ -4,7 +4,7 @@
 
 WildFly Up and Running is a collection of examples and documentation to help WildFly users have their application up and running on the Cloud.
 
-The documentation is available at https://wildfly-up-and-running.github.io/docs/.
+__[Read the documentation](https://wildfly-up-and-running.github.io/docs/)__.
 
 The examples are individual Git projects that focuses on common use cases.
 
